@@ -1,0 +1,166 @@
+.header_nav .navbar-brand{
+    font-size: 45px;
+    color: #F67C78;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 1.5px;
+}
+.header_nav ul{
+    border-left: 1px solid #ccc;
+}
+.header_nav ul li a{
+    font-size: 20px;
+    color: #F67C78;
+    text-transform: capitalize;
+    font-family: 'Roboto', sans-serif;
+}
+.header_nav ul li .active{
+    background-color:#f67c78;
+    color: #fff;
+}
+.header_nav ul li:first-child{
+    margin-left: 25px;
+}
+/***********************************************/
+.bx-viewport{
+  height: 35rem !important;
+}
+/***********************************************/
+.client{
+    background-color: #f3f3f3;
+    padding-top: 4rem;
+    margin-top: 8rem;
+    padding-bottom: 4rem;
+    
+}
+.client .head h2{
+    margin-bottom: 2em;
+    font-size: 1.6em;
+    font-weight: 700;
+    font-family: 'Questrial', sans-serif;
+    color: #404040;
+}
+.client  p{
+    line-height: 180%;
+    color: rgba(0, 0, 0, 0.6);
+    font-size: 12pt;
+    font-family: 'Questrial', sans-serif;
+}
+.client .contant{
+    margin-top: 3em;
+}
+.client  .left{
+    border-right: 1px solid #ccc;
+}
+.client .contant p{
+    width: 75%;
+}
+.client .contant .btn{
+    background-color:#e85d4b;
+    color: #fff;
+    font-size: 20px;
+    text-transform: capitalize;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 2em;
+    padding: 0.8em 2em;
+    letter-spacing: 1;
+}
+.client .sidebar{
+    margin-left: 1.2em;
+}
+.client .sidebar .list ul{
+    margin-left: -2.1em;
+}
+.client .sidebar .list ul li{
+    list-style: none;
+    cursor: pointer;
+    color: #888787;
+}
+.client .sidebar .desc{
+    margin-top: 2em;
+}
+.client .sidebar .desc span{
+    line-height: 180%;
+    font-size: 1.5em;
+    
+}
+/***************************************************************/
+.blogs{
+    padding-top: 4rem;
+}
+.blogs h2{
+    margin-bottom: 2em;
+    font-size: 1.6em;
+    font-weight: 700;
+    font-family: 'Questrial', sans-serif;
+}
+.blogs p{
+    line-height: 180%;
+    font-size: 12pt;
+    font-family: 'Questrial', sans-serif;
+    width: 75%;
+    margin-left: 2rem;
+}
+.blogs .item{
+    background-color:#f67c78;
+    color: #fff;
+    padding: 2rem;
+    margin-right: -2rem
+}
+.blogs .one{
+    background-color:#f67c78;
+
+}
+.blogs .tow{
+    background-color: #79c4ca
+}
+.blogs .three{
+    background-color: #a8c269
+}
+.blogs .btn{
+    color: #fff;
+    font-size: 20px;
+    text-transform: capitalize;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 2em;
+    padding: 0.8em 2em;
+    letter-spacing: 1;
+    border-radius: none;
+}
+.blogs .btn1{
+    background-color:#e85d4b;
+}
+.blogs .btn2{
+    background-color:#57aead;
+}
+.blogs .btn3{
+    background-color:#809944;
+}
+/*********************************************************/
+.contact{
+    background-color: #f3f3f3;
+    padding-top: 4rem;
+    margin-top: 8rem;
+    padding-bottom: 4rem;
+}
+.contact h2{
+     margin-bottom: 2em;
+    font-size: 1.6em;
+    font-weight: 700;
+    font-family: 'Questrial', sans-serif;
+    color: #404040;
+}
+.contact p{
+    line-height: 180%;
+    color: rgba(0, 0, 0, 0.6);
+    font-size: 12pt;
+    font-family: 'Questrial', sans-serif;
+}
+.contact span{
+    color: #404040;
+    font-weight: 700;
+}
+.contact a{
+    color: #e85d4b;
+    
+}
